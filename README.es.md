@@ -20,14 +20,15 @@ Este repositorio incluye toda la planificación del proyecto, el seguimiento del
 
 ## 📁 Estructura del Repositorio
 
+```plaintext
 📦 diabetes-app-docs
-┣ 📂 docs → Especificaciones funcionales, arquitectura, diagramas
-┣ 📂 reports → Informes semanales
-┣ 📂 images → Mockups de interfaz, diagramas, flujogramas
-┣ 📜 README.md → Versión en inglés
-┣ 📜 README.es.md → Este archivo (versión en español)
-┗ 📜 LICENSE → Archivo de licencia Creative Commons
-
+ ┣ 📂 docs             → Especificaciones funcionales, arquitectura, diagramas
+ ┣ 📂 reports          → Informes semanales
+ ┣ 📂 images           → Mockups de interfaz, diagramas, flujogramas
+ ┣ 📜 README.md        → Versión en inglés
+ ┣ 📜 README.es.md     → Este archivo (versión en español)
+ ┗ 📜 LICENSE          → Archivo de licencia Creative Commons
+```
 ---
 
 ## 📄 Contenidos
