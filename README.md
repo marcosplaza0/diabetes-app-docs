@@ -23,8 +23,8 @@ This repository includes all project planning, progress tracking, technical docu
 ```plaintext
 📦 diabetes-app-docs
 ┣ 📂 docs → Functional specs, architecture, diagrams
-┣ 📂 reports → Weekly reports
 ┣ 📂 images → UI mockups, diagrams, flowcharts
+┣ 📂 reports → Weekly reports
 ┣ 📜 README.md → This file (English)
 ┣ 📜 README.es.md → Spanish version
 ┗ 📜 LICENSE → Creative Commons License file
