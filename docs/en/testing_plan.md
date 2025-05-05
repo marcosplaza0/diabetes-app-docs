@@ -72,7 +72,7 @@ Tests on both Android and iOS to ensure consistency and compatibility.
 
 ---
 
-## 📆 Testing Schedule (Optional)
+## 📆 Testing Schedule
 
 | Phase              | Type                | Status     |
 |--------------------|---------------------|------------|
