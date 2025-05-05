@@ -28,4 +28,4 @@ docs/
 
 ## 📌 Purpose
 
-This folder helps organize the planning, design, testing, and tracking of the app throughout its development. Most documents are written in English, with some Spanish translations when relevant.
+This folder helps organize the planning, design, testing, and tracking of the app throughout its development.
