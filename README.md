@@ -4,7 +4,7 @@
 
 Welcome to the **Documentation Repository** for the *Diabetes Management App*, developed as a final-year project for Multiplatform App Development.
 
-This repository includes all project planning, progress tracking, technical documentation, and evaluation materials.
+This repository includes all project planning, progress tracking and technical documentation.
 
 ---
 
