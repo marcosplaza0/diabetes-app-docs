@@ -72,7 +72,7 @@ Pruebas realizadas en Android e iOS para garantizar compatibilidad y coherencia.
 
 ---
 
-## 📆 Calendario de Pruebas (Opcional)
+## 📆 Calendario de Pruebas
 
 | Fase                  | Tipo                         | Estado       |
 |-----------------------|------------------------------|--------------|
