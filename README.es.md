@@ -4,7 +4,7 @@
 
 Bienvenido al **Repositorio de Documentación** para la *App de Gestión de la Diabetes*, desarrollada como trabajo final del ciclo de Desarrollo de Aplicaciones Multiplataforma.
 
-Este repositorio incluye toda la planificación del proyecto, el seguimiento del progreso, la documentación técnica y los materiales de evaluación.
+Este repositorio incluye toda la planificación del proyecto, el seguimiento del progreso y la documentación técnica.
 
 ---
 
