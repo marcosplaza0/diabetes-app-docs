@@ -28,5 +28,5 @@ docs/
 
 ## 📌 Propósito
 
-Esta carpeta ayuda a organizar la planificación, el diseño, las pruebas y el seguimiento de la app a lo largo de su desarrollo. La mayoría de los documentos están escritos en inglés, con algunas traducciones al español cuando es necesario.
+Esta carpeta ayuda a organizar la planificación, el diseño, las pruebas y el seguimiento de la app a lo largo de su desarrollo. 
 
